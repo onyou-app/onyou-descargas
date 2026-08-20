@@ -6,7 +6,7 @@ no vive aquí.
 
 ## Descargar
 
-- **Windows**: [OnYou-Instalador.exe (última versión)](https://github.com/dkarolys/onyou-descargas/releases/latest/download/OnYou-Instalador.exe)
+- **Windows**: [OnYou-Instalador.exe (última versión)](https://github.com/onyou-app/onyou-descargas/releases/latest/download/OnYou-Instalador.exe)
 - Todas las plataformas: https://on-you.app/descargas
 
 ## Para publicar una versión nueva (nota interna)
